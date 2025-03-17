@@ -7,10 +7,10 @@ on:
 
 
 env:
-  ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
-  ALIYUN_NAME_SPACE: "${{ secrets.ALIYUN_NAME_SPACE }}"
-  ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
-  ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
+  ALIYUN_REGISTRY: "crpi-t144nd34yntljj8w.cn-guangzhou.personal.cr.aliyuncs.com"
+  ALIYUN_NAME_SPACE: "xiao_duan"
+  ALIYUN_REGISTRY_USER: "xiaoduan1"
+  ALIYUN_REGISTRY_PASSWORD: "Xiaoduan@123"
 
 jobs:
 
